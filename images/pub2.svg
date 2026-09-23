@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <rect width="300" height="200" fill="#e6f2ff"/>
+  <text x="150" y="80" font-family="Arial" font-size="16" font-weight="bold" fill="#1a365d" text-anchor="middle">Remote Sensing</text>
+  <text x="150" y="110" font-family="Arial" font-size="16" font-weight="bold" fill="#1a365d" text-anchor="middle">Crop Stress</text>
+  <text x="150" y="140" font-family="Arial" font-size="14" fill="#1a365d" text-anchor="middle">Multi-Dimensional</text>
+  <text x="150" y="170" font-family="Arial" font-size="12" fill="#1a365d" text-anchor="middle">Optical Analysis</text>
+</svg>
