@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
   <rect width="300" height="200" fill="#f3e6ff"/>
   <text x="150" y="80" font-family="Arial" font-size="16" font-weight="bold" fill="#6022a6" text-anchor="middle">Deep Learning</text>
@@ -5,3 +6,4 @@
   <text x="150" y="140" font-family="Arial" font-size="14" fill="#6022a6" text-anchor="middle">Wheat Crops</text>
   <text x="150" y="170" font-family="Arial" font-size="12" fill="#6022a6" text-anchor="middle">AI & Computer Vision</text>
 </svg>
+

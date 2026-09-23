@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 72" width="160" height="72">
   <rect width="160" height="72" fill="#b9d9eb" rx="8"/>
   <text x="80" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#07396b" text-anchor="middle">SDUT</text>
   <text x="80" y="52" font-family="Arial, sans-serif" font-size="9" fill="#07396b" text-anchor="middle">Shandong University</text>
   <text x="80" y="64" font-family="Arial, sans-serif" font-size="9" fill="#07396b" text-anchor="middle">of Technology</text>
 </svg>
+

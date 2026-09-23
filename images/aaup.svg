@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 72" width="160" height="72">
   <rect width="160" height="72" fill="#07396b" rx="8"/>
   <text x="80" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">AAUP</text>
   <text x="80" y="50" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">PMAS-Arid Agriculture</text>
   <text x="80" y="62" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">University</text>
 </svg>
+
